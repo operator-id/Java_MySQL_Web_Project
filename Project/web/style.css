@@ -1,0 +1,62 @@
+body{
+    font-family: SansSerif, sans-serif;
+    background: rgba(106,121,255,0.34);
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 22px;
+}
+h5{
+    text-align: center;
+    font-size: 22px;
+}
+div{
+   align-content: center;
+}
+
+table{
+    font-size: 18px;
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+input[type = submit] {
+    background-color: rgba(3,3,5,0.51);
+    border: none;
+
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 14px;
+}
+button[type = submit]
+{
+    background-color: rgba(3,3,5,0.51);
+    border: none;
+
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 14px;
+}
+footer{
+    background: rgba(3,3,5,0.21);
+    text-align: right;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+
+}

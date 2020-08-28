@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 7.0.96" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 7.0.96" value="application_server_libraries"/>
+		<level name="mysql-connector-java-8.0.18" value="project"/>
+	</levels>
+</component>
